@@ -1,0 +1,31 @@
+@media screen and (min-width: 801px) {
+    .desktop_total_vol {
+        display: block;
+    }
+    .mobile_total_vol {
+        display: none;
+    }
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+    .desktop_total_vol, .min_screen {
+        display: none;
+    }
+    .mobile_total_vol {
+        display: block
+    }
+
+    .min_screen_table {
+        font-size: 10px !important;
+    }
+
+    .price_change  {
+        font-size: 10px !important;
+        width: 3rem !important;
+    }
+}
+
+

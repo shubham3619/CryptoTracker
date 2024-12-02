@@ -1,0 +1,4 @@
+.link {
+    color: var(--gray);
+    transition: all 0.3s;
+}

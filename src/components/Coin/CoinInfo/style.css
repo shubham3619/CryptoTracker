@@ -1,0 +1,12 @@
+.coin_desc{
+    cursor: pointer;
+}
+
+.coin_desc a{
+    color: var(--blue);
+    text-decoration: underline;
+}
+
+.coin_desc a:hover{
+    color: rgb(102, 102, 214);
+}
